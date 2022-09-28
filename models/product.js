@@ -2,13 +2,13 @@ const mongoose = require("mongoose");
 
 const ProductSchema = new mongoose.Schema(
   {
-    name: { type: String, required: true, unique: true },
+    name: { type: String, required: true },
     images: { type: String, required: true },
     price: { type: Number, required: true },
     category: { type: String, required: true },
     rating: { type: Number, required: true },
     menSuit: { type: Boolean, required: true },
-    womanSuit: { type: Boolean, required: true },
+    womanSuits: { type: Boolean, required: true },
     menPants: { type: Boolean, required: true },
     womanPants: { type: Boolean, required: true },
     newProducts: { type: Boolean, required: true },
