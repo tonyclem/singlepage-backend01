@@ -16,7 +16,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/htS11VT7/gentlemen-002.jpg",
@@ -33,7 +32,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/C1jR2QVM/gentle-003.jpg",
@@ -50,7 +48,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/Bnv6mxKh/suit01.jpg",
@@ -67,7 +64,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
 
     {
@@ -85,7 +81,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
 
     {
@@ -103,7 +98,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
 
     {
@@ -121,7 +115,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     //   woman-suit
     {
@@ -139,7 +132,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/2ySBB7Pz/woman-sult-002.jpg",
@@ -156,7 +148,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/0NJg9gjv/women-sult-004.jpg",
@@ -173,7 +164,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/bY5Q2KNW/women-Sult-004.jpg",
@@ -190,7 +180,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/NM4BTsL0/blazersult.jpg",
@@ -207,7 +196,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/DZp86CDL/blazercoat.jpg",
@@ -224,7 +212,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/N08y93Xj/Azblazer.jpg",
@@ -241,7 +228,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     //   Banner logo
     {
@@ -259,7 +245,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     //   Logo
     {
@@ -278,7 +263,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
 
     //   Womans pants
@@ -297,7 +281,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/G3krw4hq/woman-pants-001.jpg",
@@ -314,7 +297,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/ZRtgVL3Z/woman-Pant-004.jpg",
@@ -331,7 +313,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/ZRtgVL3Z/woman-Pant-004.jpg",
@@ -348,7 +329,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/B6pgH5Bm/women-Leg-Pants-Ami.jpg",
@@ -365,7 +345,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/Kz8LX6t5/woman-Trousers.webp",
@@ -382,7 +361,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/1RTFTYXp/womens-Long-Leg-Pant.jpg",
@@ -399,7 +377,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     //   Men Pants
     {
@@ -417,7 +394,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/htgPX9hJ/men-Pants-004.jpg",
@@ -434,7 +410,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/BbTf3VTm/men-Pants-005.jpg",
@@ -451,7 +426,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/90pgJ5tH/men-Pants-006.jpg",
@@ -468,7 +442,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/fTqBLv8C/men-Pents-002.jpg",
@@ -485,7 +458,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/1tMDd9TB/men-Pants-007.webp",
@@ -502,7 +474,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/kG0G1znw/men-Pants-008.webp",
@@ -519,7 +490,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/htgPX9hJ/men-Pants-004.jpg",
@@ -536,7 +506,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: false,
-      newProduct: false,
     },
     // Scrolling images
     {
@@ -554,7 +523,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/QtpghX8W/complete-Officedress.jpg",
@@ -571,7 +539,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/8C7tQQfh/office-suit02.png",
@@ -588,7 +555,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/52Jqjksz/clths02.jpg",
@@ -605,7 +571,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/fWCXKqJZ/ladyoutfit.png",
@@ -622,7 +587,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/283XK2qp/officewear5.jpg",
@@ -639,7 +603,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/cHdjHWX2/ladyofficeswear4.jpgv",
@@ -656,7 +619,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/6qPzKx8k/mens-fashion-dress-shirt03.png",
@@ -673,7 +635,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
     {
       images: "https://i.postimg.cc/655yJGwx/womensuit.jpg",
@@ -690,7 +651,6 @@ const data = {
       categories: false,
       advertImages: false,
       scrollImages: true,
-      newProduct: false,
     },
   ],
 };
